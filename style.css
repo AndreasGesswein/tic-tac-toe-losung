@@ -1,0 +1,24 @@
+td {
+  border: 1px solid white;
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  color: white;
+  font-weight: bold;
+  font-size: 80px;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+div.winner {
+  width: 309px;
+  height: 40px;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
